@@ -13,11 +13,11 @@ Suggest the tags based on the content that was there in the question posted on S
 Source: https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/
 
 2. Source / useful links:
-Data Source : https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data 
-Research paper : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tagging-1.pdf 
-Research paper : https://dl.acm.org/citation.cfm?id=2660970&dl=ACM&coll=DL
+  Data Source : https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data 
+  Research paper : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tagging-1.pdf 
+  Research paper : https://dl.acm.org/citation.cfm?id=2660970&dl=ACM&coll=DL
 
 3.Business Objectives and Constraints
-Predict as many tags as possible with high precision and recall.
-Incorrect tags could impact customer experience on StackOverflow.
-No strict latency constraints.
+  Predict as many tags as possible with high precision and recall.
+  Incorrect tags could impact customer experience on StackOverflow.
+  No strict latency constraints.
